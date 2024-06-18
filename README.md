@@ -3,21 +3,21 @@ This repository contains a dynamic, responsive traveling website built with Reac
 
 **Features**
 **Responsive Design:** Optimized for desktops, tablets, and mobiles using Bootstrap's grid system. <br/>
-**Smooth Animations:** Enhances user experience with CSS and React animation libraries.
-**Travel Destination Showcase:** Interactive displays with filter and search functionalities.
-**Detailed Travel Information:** Clients can view detailed information about each travel destination.
-**Package Purchase:** Users can browse and purchase travel packages.
-**Interactive Maps:** Explore destinations on integrated maps.
-**User Reviews and Ratings:** Dynamic reviews section with sorting options.
-**Booking and Contact Forms:** Easy-to-use, validated forms.
-**Responsive Navigation:** Intuitive nav bar with dropdowns and mobile-friendly off-canvas menu.
-**Customizable Themes:** Light and dark mode with a theme switcher.
+**Smooth Animations:** Enhances user experience with CSS and React animation libraries. <br/>
+**Travel Destination Showcase:** Interactive displays with filter and search functionalities. <br/>
+**Detailed Travel Information:** Clients can view detailed information about each travel destination. <br/>
+**Package Purchase:** Users can browse and purchase travel packages. <br/>
+**Interactive Maps:** Explore destinations on integrated maps. <br/>
+**User Reviews and Ratings:** Dynamic reviews section with sorting options. <br/>
+**Booking and Contact Forms:** Easy-to-use, validated forms. <br/>
+**Responsive Navigation:** Intuitive nav bar with dropdowns and mobile-friendly off-canvas menu. <br/>
+**Customizable Themes:** Light and dark mode with a theme switcher. <br/><br/>
 
 **Technologies Used**
-**React:** For a dynamic UI.
-**Bootstrap:** For responsive design.
-**React Router:** For navigation.
-**CSS Animations & React Spring:** For animations.
+**React:** For a dynamic UI. <br/>
+**Bootstrap:** For responsive design. <br/>
+**React Router:** For navigation. <br/>
+**CSS Animations & React Spring:** For animations. <br/><br/>
 
 
 
