@@ -1,7 +1,7 @@
 # Animated Responsive Traveling Website
 This repository contains a dynamic, responsive traveling website built with React and Bootstrap. The site features engaging animations and a fully responsive design for all devices.
 
-**Features**
+**Features** <br/>
 **Responsive Design:** Optimized for desktops, tablets, and mobiles using Bootstrap's grid system. <br/>
 **Smooth Animations:** Enhances user experience with CSS and React animation libraries. <br/>
 **Travel Destination Showcase:** Interactive displays with filter and search functionalities. <br/>
@@ -13,16 +13,13 @@ This repository contains a dynamic, responsive traveling website built with Reac
 **Responsive Navigation:** Intuitive nav bar with dropdowns and mobile-friendly off-canvas menu. <br/>
 **Customizable Themes:** Light and dark mode with a theme switcher. <br/><br/>
 
-**Technologies Used**
+**Technologies Used** <br/>
 **React:** For a dynamic UI. <br/>
 **Bootstrap:** For responsive design. <br/>
 **React Router:** For navigation. <br/>
 **CSS Animations & React Spring:** For animations. <br/><br/>
 
-
-
-
-
+<hr/>
 
 # Getting Started with Create React App
 
