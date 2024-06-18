@@ -2,7 +2,7 @@
 This repository contains a dynamic, responsive traveling website built with React and Bootstrap. The site features engaging animations and a fully responsive design for all devices.
 
 **Features**
-**Responsive Design:** Optimized for desktops, tablets, and mobiles using Bootstrap's grid system. \n
+**Responsive Design:** Optimized for desktops, tablets, and mobiles using Bootstrap's grid system. <br/>
 **Smooth Animations:** Enhances user experience with CSS and React animation libraries.
 **Travel Destination Showcase:** Interactive displays with filter and search functionalities.
 **Detailed Travel Information:** Clients can view detailed information about each travel destination.
